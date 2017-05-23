@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App-Task {
+  height: 150px;
+  padding: 25px;
+  color: black;
+}
+
+.App-Countdown {
+  height: 410px;
+  padding: 50px;
+  margin-right: 180px;
+}
+
+.App-footer {
+  background-color: orange;
+  height: 200px;
+  padding: 20px;
+  color: white;
+}
