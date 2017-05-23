@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Whatamidoing from './Whatamidoing.js';
 import ReactCountdownClock from 'react-countdown-clock';
@@ -9,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-Task">
-        <Whatamidoing task = {prompt("지금 하고있는 일이 무엇인가요?")}/>
+        <Whatamidoing task = {prompt("자리비움의 목적이 무엇인가요?")}/>
         </div>
         <div className="App-Countdown">
         <ReactCountdownClock seconds={prompt("몇초 뒤 돌아올 예정이신가요?")}
