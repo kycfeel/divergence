@@ -22,14 +22,14 @@ class App extends Component {
             <div class="row">
               <div class="col l6 s12">
                 <h5 class="white-text">divergence</h5>
-                <p class="grey-text text-lighten-4">잠시 자리를 비울 때 다른 사람들에게 내가 왜 나갔고, 언제 돌아오는지 알려줄 수 있어요.</p>
-                <p class="grey-text text-lighten-4">내가 입력하는 모든 정보는 암호화되어 올라가고, 브라우저를 닫으면 완전히 삭제됩니다. 안심하고 사용하세요.</p>
+                <p class="grey-text text-lighten-4">잠시 자리를 비울 때 다른 사람들에게 내가 왜 나갔고, 언제 돌아오는지 알려줄 수 있어요. <br/>내가 입력하는 모든 정보는 암호화되어 올라가고, 브라우저를 닫으면 완전히 삭제됩니다. 안심하고 사용하세요.</p>
+
               </div>
           </div>
         </div>
         <div class="footer-copyright">
           <div class="container">
-          <a class="white-text" href="">GitHub</a> 에서 소스코드를 확인해 보세요. Made by <a class="orange-text text-lighten-3" href="https://twitter.com/kycfeel">kycfeel</a>, Theme from <a class="orange-text text-lighten-3" href="http://materializecss.com">Materialize.</a>
+          <br/><a class="white-text" href="">GitHub</a> 에서 소스코드를 확인해 보세요. Made by <a class="orange-text text-lighten-3" href="https://twitter.com/kycfeel">kycfeel</a>, Theme from <a class="orange-text text-lighten-3" href="http://materializecss.com">Materialize.</a>
           </div>
         </div>
       </div>
