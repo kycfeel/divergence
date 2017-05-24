@@ -1,14 +1,15 @@
 {
   "name": "divergence",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "dependencies": {
     "npm": "^4.6.1",
     "react": "^15.5.4",
-    "react-count-down": "^1.1.0",
     "react-countdown-clock": "^1.1.0",
     "react-dom": "^15.5.4"
   },
+  "author": "kycfeel <kycfeel@gmail.com> (https://twitter.com/kycfeel/)",
+  "license": "MIT",
   "devDependencies": {
     "react-scripts": "1.0.5"
   },
