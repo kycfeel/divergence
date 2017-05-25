@@ -1,6 +1,6 @@
 `divergence`
 ========================
-<div align="center"><img src="markdown_media/divergence_gif.gif?raw=true"/></div><br>
+<div align="center"><img src="markdown_media/divergence_demo_2.gif?raw=true"/></div><br>
 
 `divergence`는 사무실, 카페, 도서관 등의 공공장소에서 잠시 자리를 비울 때 다른 사람들에게 내가 무엇을 위해 외출했는지, 또 언제까지 돌아올 것인지 알려줄 수 있는 가장 간단하고 확실한 방법입니다.
 
