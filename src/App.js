@@ -8,7 +8,8 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-Task">
-        <Whatamidoing task = {prompt("자리비움의 목적이 무엇인가요?")}/>
+        <Whatamidoing task = {prompt("자리비움의 목적이 무엇인가요?")}
+                      task_message = {prompt("추가로 남길 메시지가 있으신가요?", "타이머가 끝나기 전까지 돌아올게요.")}/>
         </div>
         <div className="App-Countdown">
         <ReactCountdownClock seconds={prompt("몇초 뒤 돌아올 예정이신가요?")}
