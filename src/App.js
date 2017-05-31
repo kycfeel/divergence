@@ -30,7 +30,7 @@ class App extends Component {
         </div>
         <div class="footer-copyright">
           <div class="container">
-          <br/><a class="white-text" href="">GitHub</a> 에서 소스코드를 확인해 보세요. Made by <a class="orange-text text-lighten-3" href="https://twitter.com/kycfeel">kycfeel</a>, Theme from <a class="orange-text text-lighten-3" href="http://materializecss.com">Materialize.</a>
+          <br/><a class="white-text" href="https://github.com/kycfeel/divergence">GitHub</a> 에서 소스코드를 확인해 보세요. Made by <a class="orange-text text-lighten-3" href="https://twitter.com/kycfeel">kycfeel</a>, Theme from <a class="orange-text text-lighten-3" href="http://materializecss.com">Materialize.</a>
           </div>
         </div>
       </div>

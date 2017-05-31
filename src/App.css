@@ -1,22 +1,32 @@
 .App {
   text-align: center;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 .App-Task {
   height: 150px;
-  padding: 25px;
+  padding: 0px;
   color: black;
 }
 
 .App-Countdown {
-  height: 410px;
-  padding: 90px;
+  min-height: 100%;
+  padding: 55px;
   margin-right: 210px;
+  margin-bottom: 100px;
+  position:relative;
 }
 
 .App-footer {
   background-color: orange;
-  height: 240px;
+  height: 186px;
   padding: 20px;
   color: white;
+  position:fixed;
+  margin-top: 150px;
+  bottom: 0;
+  left: 0;
+  width:100%;
 }
