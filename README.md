@@ -1,6 +1,8 @@
 *이제 최신 버전의 `divergence`가 언제나 온라인 상태로 여러분을 기다립니다. [여기](https://kycfeel.github.io/divergence)서 바로 사용해보세요!*
 
-*`divergence`와 관련된 이야기는 [필자의 GitHub 페이지](https://kycfeel.github.io/2017/05/24/내-자리비움을-발산하라/)에서 읽어볼 수 있습니다.*<br />
+*Docker Hub에서 최신 버전의 divergence를 [간편히 내려받아 볼 수 있습니다](https://hub.docker.com/r/kycfeel/divergence/). `docker pull kycfeel/divergence`.*
+
+*`divergence`와 관련된 이야기는 [필자의 GitHub 페이지](https://kycfeel.github.io/2017/05/24/내-자리비움을-발산하라/)에서 읽어볼 수 있습니다.*
 
 `divergence`
 ========================
